@@ -1,4 +1,4 @@
-# Flutter Riverpod Snippets
+# Flutter Riverpod Snippets, just so that it works with luasnip
 
 Flutter Riverpod snippets is a way to enhance the way you use Riverpod. It contains a collection of different
 snippets such as `provider`.
